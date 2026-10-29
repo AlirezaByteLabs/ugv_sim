@@ -1,0 +1,13 @@
+build/
+install/
+log/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+/tmp/
+/temp/
+*.pyc
+core
+core.*
+.vscode
+/assets/
